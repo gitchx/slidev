@@ -5,11 +5,6 @@
   font-style: normal;
 }
 
-.slidev-layout h1 {
+h1 {
   font-family: "Keifont", sans-serif;
-}
-
-.absolute-img img{
-  width: 10em;
-  position: absolute;
 }

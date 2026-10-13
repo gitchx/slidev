@@ -11,6 +11,10 @@
     "@slidev/cli": "^53.0.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "markdown-it-attrs": "^5.0.1",
     "vue": "^3.5.33"
+  },
+  "devDependencies": {
+    "markdown-it": "14.3.2"
   }
 }
