@@ -35,8 +35,66 @@ Cubase Proを使用し、オーディオ録音、打ち込みでの音出し、�
 # 「DTM」って何ができるの？
 
 <div class="h-5"></div>
-
+<div class="flex gap-10">
+  
+  <div class="flex-left">
+    
+    
   - 録音 {.text-2xl}
 
-歌やギターを録音できます🎤🎸
+![cubase_gtrec](./public/images/cubase_gtrec.png) {.w-100}
 
+歌やギターを録音できます🎤🎸 {.text-sm}
+    
+  </div>
+  
+  <div class="flex-right">
+    
+  - 打ち込み {.text-2xl}
+
+![cubase_drumsmid](./public/images/cubase_drumsmidi.png) {.w-100}
+
+MIDIの打ち込みでソフト音源を鳴らせます♪ {.text-sm}
+
+ドラムやピアノやバイオリンや管楽器の音が再現できます🥁🎹🎻 {.text-sm}
+
+
+  </div>
+  
+  
+</div>
+
+---
+
+# 例えばこんなことができます!
+<div class="flex gap-20 mt-10 mx-auto justify-center">
+  <div class="flex-left">
+    
+  - 歌ってみた {.font-bold}
+  
+  カラオケ音源を探して、PCにマイクを繋いで録音する! {.text-xs}
+  
+  ![utamitarec](./public/images/utamitarec.png) {.w-50 mx-auto}
+
+  ![utattemita](./public/images/niconico_filter.jpg) {.w-50 mx-auto}
+  </div>
+  
+  <div class="flex-right">
+
+  - 作曲 {.font-bold}
+
+自分で曲を作る! {.text-xs text-center}
+
+![songwriter](./public/images/dtm_beginners/music_sakkyoku_guitar_woman.png) {.w-40}  
+
+  </div>
+
+</div>
+
+---
+
+- バンドの同期を作る・鳴らす
+
+---
+
+# かえるの歌を録音してみよう
