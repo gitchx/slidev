@@ -1,6 +1,7 @@
 ---
 Theme: default
 colorSchema: light
+routerMode: hash
 ---
 
 
