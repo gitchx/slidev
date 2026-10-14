@@ -1,7 +1,7 @@
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 
-defineProps({
+const props = defineProps({
   src: {
     type: String,
     required: true,
@@ -13,11 +13,17 @@ defineProps({
 })
 
 const enlarged = ref(false)
+
+const imageSrc = computed(() => {
+  const base = import.meta.env.BASE_URL
+  const path = props.src.replace(/^(\.\/)?(public\/)?\/?/, '')
+  return `${base}${path}`
+})
 </script>
 
 <template>
   <img
-    :src="src"
+    :src="imageSrc"
     :style="{ width }"
     class="cursor-zoom-in"
     @click.stop="enlarged = true"
@@ -29,7 +35,7 @@ const enlarged = ref(false)
     @click.stop="enlarged = false"
   >
     <img
-      :src="src"
+      :src="imageSrc"
       class="max-w-[90%] max-h-[90%] object-contain cursor-zoom-out"
     />
   </div>
