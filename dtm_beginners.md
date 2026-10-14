@@ -149,7 +149,7 @@ Cubaseの付属音源 Retrogue を使います {.text-center font-bold text-3xl}
 
 
 <div class="flex justify-center">
-  <ZoomImage src="./public/images/dtm_beginners/retrogue.png" width="10em" />
+  <ZoomImage src="/images/dtm_beginners/retrogue.png" width="10em" />
 </div>
 
 <!-- ![Retrogue](./public/images/dtm_beginners/retrogue.png) {.w-40 mx-auto} -->
