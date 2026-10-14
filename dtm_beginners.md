@@ -119,6 +119,7 @@ layout: center
 
 # かえるの歌をアレンジしてみよう
 
+<div></div>
 
   カエルの歌🐸 バンドアレンジVer.🥁 を作ってみます!
 
@@ -266,7 +267,28 @@ MIDIキーボードは小さなものから大きなものまで色々ありま�
 録音を有効にするボタン(Record Enable)を押して、録音ボタンを押します {.ml-20 .text-sm}
 </div>
 
+
 ---
+
+メロディの打ち込み > シンセサイザーを使う{ .text.3xs }
+
+# ステップ入力
+
+MIDIキーボードをリアルタイムで演奏しなくてもMIDIキーボードを押さえながら長さを指定して入力する方法です {.text-sm}
+
+<div class="flex flex-col items-center">
+  <figure class="w-100">
+    <img src="./public/images/dtm_beginners/stepinput.png" alt="stepinput" class="w-70 mx-auto">
+    <figcaption class="text-xs text-center mt-5">ピアノロールの「ステップ入力ボタン」<br>をオンにすることで使えるようになります</figcaption>
+  </figure>
+  
+  <div class="h-10"></div>
+  
+  💡 楽譜をみながら打ち込むときに便利です! {.text-sm .mt-5}
+</div>
+
+---
+
 メロディの打ち込み > シンセサイザーを使う{ .text.3xs }
 
 # 楽譜を書く
@@ -275,12 +297,27 @@ MIDIキーボードは小さなものから大きなものまで色々ありま�
 
 楽譜を書いて入力もできます
 
-![score_editor]()
-
+![score_editor](./public/images/dtm_beginners/score_editor/score_editor.gif) {.w-100}
+ 
 ---
 
-メロディの打ち込み > シンセサイザーを使う{ .text.3xs }
+# マイクで歌う
 
-# ステップ入力
+<div class="flex gap-10">
+  <img src="./public/images/dtm_beginners/cubase_mac/cubase_mac.svg" class="w-60"/>
+  
+  <div class="mt-25 -ml-10">
+    <div class="w-70 h-0.5 bg-black "></div>
 
-MIDIキーボードをリアルタイムで:演奏しなくてもMIDIキーボードを押さえながら長さを指定して入力する方法です
+  マイクケーブルで接続(XLRケーブル) {.text-center .text-sm}
+  </div>
+  
+  <div>
+    <figure>
+      <img src="./public/images/dtm_beginners/SM58/SM58_edited.jpg" class="w-40 object-contain mx-auto">
+        <figcaption class="text-center">マイク</figcaption>
+    </figure>
+  </div>
+</div>
+
+
