@@ -207,15 +207,63 @@ MIDIの打ち込み方は色々あります! {.text-center font-bold text-3xl}
 
 # MIDIキーボードで演奏する
 
-## 小さなものから大きなものまで色々あります
+MIDIキーボードは小さなものから大きなものまで色々あります
 
-![KORG microkey]()
+<div class="flex gap-15 justify-center">
 
-![Roland RD-88]()
+<div class="flex">
+  <figure>
+    <img src="./public/images/dtm_beginners/microkey.jpg" alt="KORG microkey" class="w-60 object-contain">
+      <figcaption class="text-center">KORG microkey-25</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="./public/images/dtm_beginners/A-88.jpg" alt="Roland RD-88" class="w-60 object-contain"> 
+      <figcaption class="text-center">Roland RD-88</figcaption>
+  </figure>
+</div>
 
-電子ピアノの使えます
+<div>
 
-![Roland LX6]()
+  電子ピアノも使えます {.text-xs text-center}
+  
+  <figure>
+    <img src="./public/images/dtm_beginners/LX6.jpg" alt="Roland LX6" class="w-60">
+      <figcaption class="text-center">Roland LX6</figcaption>
+  </figure>
+</div>
+
+</div>
+
+---
+
+メロディの打ち込み > シンセサイザーを使う{ .text.3xs}
+
+# MIDIキーボードで演奏する
+
+<div class="flex gap-10">
+  <img src="./public/images/dtm_beginners/cubase_mac/cubase_mac.svg" class="w-60"/>
+  
+  <div class="mt-25 -ml-10">
+    <div class="w-30 h-0.5 bg-black "></div>
+
+  USB接続 {.text-center}
+  </div>
+  
+  <div>
+    <figure>
+      <img src="./public/images/dtm_beginners/microkey.jpg" alt="KORG microkey" class="w-50 object-contain mx-auto">
+        <figcaption class="text-center -mt-15">KORG microkey-25</figcaption>
+    </figure>
+  </div>
+</div>
+
+<div class="flex items-center">
+
+  ![midirex](./public/images/dtm_beginners/midirec.png) {.w-60}
+  
+録音を有効にするボタン(Record Enable)を押して、録音ボタンを押します {.ml-20 .text-sm}
+</div>
 
 ---
 メロディの打ち込み > シンセサイザーを使う{ .text.3xs }
