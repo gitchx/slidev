@@ -132,7 +132,7 @@ layout: center
 <div class="ml-20">
 
 - シンセサイザーを使う
-- マイクで歌う
+- マイクで歌う(楽器で弾いてもOK)
 - ボーカロイドを使う
 {.text-2xl font-bold space-y-4 mt-10}
 
@@ -301,7 +301,7 @@ MIDIキーボードをリアルタイムで演奏しなくてもMIDIキーボー
  
 ---
 
-# マイクで歌う
+# マイクで歌う(楽器で弾いてもOK)
 
 <div class="flex gap-10">
   <img src="./public/images/dtm_beginners/cubase_mac/cubase_mac.svg" class="w-60"/>
@@ -320,4 +320,20 @@ MIDIキーボードをリアルタイムで演奏しなくてもMIDIキーボー
   </div>
 </div>
 
+<div class="flex gap-10">
+  <img src="./public/images/dtm_beginners/sing/sing_man.png" alt="sing_man" class="w-50 object-contain">
+  
+  <img src="./public/images/dtm_beginners/audiotrack.png" alt="audiotrack" class="w-70">
+</div>
 
+オーディオトラックを作成して、歌います!
+
+
+---
+
+# ボーカロイドに歌ってもらう
+
+
+シンセサイザーで作ったメロディをボーカロイドに歌ってもらいましょう!
+
+![vocalo](./public/images/dtm_beginners/vocalo.png){w-120 mx-auto}
