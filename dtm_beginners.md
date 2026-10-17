@@ -344,8 +344,88 @@ MIDIキーボードをリアルタイムで演奏しなくてもMIDIキーボー
 
 ピアノの伴奏からバンドサウンドに変えていきます!
 
+## バンドサウンドってどんな音？
+
+
+ドラムとギター（ベース）を主軸にした音です
+
+![band](./public/images/dtm_beginners/band.png) {w-70 absolute ml-130}
+
+<div class="h-5"></div>
+
+音を入れていく順番(おすすめ順) 
+
+<div class="h-5"></div>
+
 1. ドラムを入れる
 
 2. ベースを入れる
 
 3. ギターを入れる
+
+---
+
+# ミキシング
+
+音量バランスと音質を整えます
+
+- フェーダーで音量を整える
+
+![fader](./public/images/dtm_beginners/fader.png) {w-70}
+
+- エフェクトで音質・音量を整える
+
+<div class="flex gap-5">
+  <figure class="text-center w-50">
+    <img src="./public/images/dtm_beginners/EQ.png" alt="EQ" class="w-50">
+    <figcaptio>EQ</figcaptio>
+  </figure>
+  
+  
+  <figure class="text-center w-40">
+    <img src="./public/images/dtm_beginners/comp.png" alt="comp" class="w-50">
+    <figcaptio>Compresor</figcaptio>
+  </figure>
+  
+  
+  <figure class="text-center w-30">
+    <img src="./public/images/dtm_beginners/reverb.png" alt="EQ" class="w-50">
+    <figcaptio>Reverb</figcaptio>
+  </figure>
+</div>
+
+---
+layout: center
+---
+# かえるの歌バンドアレンジVer. 完成!
+
+
+---
+
+# DTMを始めるために必要なもの
+
+<div class="h-5"></div>
+
+<div class="flex gap-20">
+  <div>
+
+  ## ・オーディオインターフェース
+  
+  <div class="h-5"></div>
+
+  DAW(PC)から音を出すために必要です!{z-10 relative}
+  
+  
+  ![scarlett](./public/images/dtm_beginners/scarlett.jpg){w-70 -mt-10 z-0 relative}
+  </div>
+  
+  <div>
+
+  ## ・DAW
+    
+  ![cubase_elements](./public/images/dtm_beginners/cubase_elements.jpg){w-50 mt-18}
+
+Scarlett Solo 4th Gen には Cubase LEが付属しています! {text-sm}
+
+  </div>
+</div>
