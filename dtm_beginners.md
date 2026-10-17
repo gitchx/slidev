@@ -446,40 +446,60 @@ Scarlett Solo 4th Gen には Cubase LEが付属しています! {text-sm}
 
 # 入力を楽にしたりクオリティアップに必要なもの
 
-- MIDIキーボード
+<div class="flex gap-20">
+<div class="flex-left">
 
-25鍵盤~37鍵盤のミニサイズのMIDIキーボードでも良いのであると便利です {.z-10 .relative .text-xs}
-
-<div class="flex gap-10">
-  <figure>
-    <img src="./public/images/dtm_beginners/microkey.jpg" alt="microkey-25" class="w-15" >
-    <figcaotion class="text-center text-xs">KORG microKEY-25</figcaotion>
-  </figure>
-  <figure>
-    <img src="./public/images/dtm_beginners/lanchkeymini37.jpg" alt="lanchkeymini37" class="w-20 -mt-3 z-0 relative" >
-    <figcaotion class="text-center text-xs">Novation Launchkey Mini 37</figcaotion>
-  </figure>
+  - MIDIキーボード {.font-bold}
+  
+  25鍵盤~37鍵盤のミニサイズのMIDIキーボードでも良いのであると便利です {.z-10 .relative .text-xs}
+  
+  <div class="flex gap-10">
+    <figure>
+      <img src="./public/images/dtm_beginners/microkey.jpg" alt="microkey-25" class="w-15" >
+      <figcaotion class="text-center text-xs">KORG microKEY-25</figcaotion>
+    </figure>
+    <figure>
+      <img src="./public/images/dtm_beginners/lanchkeymini37.jpg" alt="lanchkeymini37" class="w-20 -mt-3 z-0 relative" >
+      <figcaotion class="text-center text-xs">Novation Launchkey Mini 37</figcaotion>
+    </figure>
+  </div>
+  
+  <div class="h-5"></div>
+  
+  - ソフト音源  {.font-bold}
+  
+  <div class="flex">
+    <figure class="w-30">
+      <img src="./public/images/dtm_beginners/ad2.jpg" alt="ad2" class="w-15 mx-auto">
+      <figcaption class="text-center text-xs">Addictive Drums 2</figcaption>
+    </figure>
+    <figure class="w-30">
+      <img src="./public/images/dtm_beginners/trilian.jpg" alt="trilian" class="w-15 mx-auto">
+      <figcaption class="text-center text-xs">Trilian</figcaption>
+    </figure>
+    <figure class="w-30">
+      <img src="./public/images/dtm_beginners/komplete.jpg" alt="komplete" class="w-15 mx-auto">
+      <figcaption class="text-center text-xs">Komplete</figcaption>
+    </figure>
+  </div>
 </div>
 
-<div class="h-5"></div>
 
-- ソフト音源
+<div class="flex-right">
+
+- エフェクトプラグイン {.font-bold}
 
 <div class="flex">
   <figure class="w-30">
-    <img src="./public/images/dtm_beginners/ad2.jpg" alt="ad2" class="w-15 mx-auto">
-    <figcaption class="text-center text-xs">Addictive Drums 2</figcaption>
+    <img src="./public/images/dtm_beginners/horizon.jpg" alt="horizon" class="w-15 mx-auto">
+    <figcaption class="text-center text-xs">Waves Horizonn</figcaption>
   </figure>
   <figure class="w-30">
-    <img src="./public/images/dtm_beginners/trilian.jpg" alt="trilian" class="w-15 mx-auto">
-    <figcaption class="text-center text-xs">Trilian</figcaption>
-  </figure>
-  <figure class="w-30">
-    <img src="./public/images/dtm_beginners/komplete.jpg" alt="komplete" class="w-15 mx-auto">
-    <figcaption class="text-center text-xs">Komplete</figcaption>
+    <img src="./public/images/dtm_beginners/ozone/ozone_edit.png" alt="ozone" class="w-15 mx-auto">
+    <figcaption class="text-center text-xs">Ozone</figcaption>
   </figure>
 </div>
 
-<div class="h-5"></div>
+</div>
 
-- エフェクトプラグイン
+</div>
