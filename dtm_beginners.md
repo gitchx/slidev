@@ -416,16 +416,34 @@ layout: center
   DAW(PC)から音を出すために必要です!{z-10 relative}
   
   
-  ![scarlett](./public/images/dtm_beginners/scarlett.jpg){w-70 -mt-10 z-0 relative}
+  ![scarlett](./public/images/dtm_beginners/scarlett.jpg){w-50 -mt-10 z-0 relative}
   </div>
   
   <div>
 
   ## ・DAW
     
-  ![cubase_elements](./public/images/dtm_beginners/cubase_elements.jpg){w-50 mt-18}
+  ![cubase_elements](./public/images/dtm_beginners/cubase_elements.jpg){w-30 mt-18}
 
 Scarlett Solo 4th Gen には Cubase LEが付属しています! {text-sm}
 
   </div>
 </div>
+
+
+## ・スピーカーかヘッドフォン {-mt-10 z-20 relative}
+
+<div class="flex gap-5">
+  <img src="./public/images/dtm_beginners/d3v.jpg" alt="d3v" class="w-25 object-contain">
+  
+  <figure class="w-25">
+    <img src="./public/images/dtm_beginners/cd900st.jpg" alt="cd900st" class="w-25">
+    <figcaption class="text-center text-xs">Sony<br>MDR-CD900ST</figcaption>
+  </figure>
+</div>
+
+---
+
+# 入力を楽にしたりクオリティアップに必要なもの
+
+
